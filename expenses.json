@@ -1,0 +1,22 @@
+[
+  {
+    "item": "chicken burrito",
+    "amount": 345.0,
+    "category": "Food"
+  },
+  {
+    "item": "gym",
+    "amount": 300.0,
+    "category": "Sport"
+  },
+  {
+    "item": "gas",
+    "amount": 345.0,
+    "category": "Transport"
+  },
+  {
+    "item": "cabbage soup",
+    "amount": 345.0,
+    "category": "Food"
+  }
+]
